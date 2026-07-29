@@ -1,19 +1,21 @@
 # Hi, I'm German Bustos
 
-**Senior Software Engineer | Backend Architecture | Distributed Systems | AI Agents & RAG**
+**Senior Cloud-Native Backend Engineer | .NET | Distributed Systems | AI Agents & RAG**
 
-I am a software engineer with 25+ years of experience designing, modernizing, and maintaining enterprise applications. My main focus is backend engineering, scalable APIs, distributed systems, and secure AI-powered platforms.
+I am a software engineer with 25+ years of experience designing, modernizing, and maintaining enterprise applications. I specialize in cloud-native backend engineering, scalable APIs, distributed and event-driven systems, and secure AI-powered platforms.
 
 Based in La Paz, Bolivia, I am open to remote international opportunities as a **Senior Backend Engineer**, **Software Architect**, or **AI Platform Engineer**.
 
 ## Core Expertise
 
-- **Backend:** C#, .NET, ASP.NET Core, REST APIs, Node.js, Python, FastAPI
+- **Backend:** C#, .NET, ASP.NET Core, REST APIs, GraphQL, Node.js, Python, FastAPI
 - **Architecture:** Distributed systems, event-driven architecture, microservices, scalable API design
+- **Cloud & Messaging:** AWS Lambda, Amazon SQS, Docker, cloud-native services
 - **Data:** PostgreSQL, SQL Server, MongoDB, Redis, Qdrant
-- **Cloud & DevOps:** AWS, Docker, CI/CD, Jenkins, observability
-- **AI Engineering:** AI agents, RAG, LangGraph, LangChain, LLM applications
+- **DevOps & Observability:** CI/CD, Azure DevOps, Jenkins, DataDog, Sumo Logic
+- **AI Engineering:** AI agents, multi-agent orchestration, RAG, LangGraph, LangChain, MCP, GitHub Copilot Agents, OpenCode
 - **Frontend:** TypeScript, React, Next.js, Angular
+- **Additional Experience:** Java, C, C++
 
 ## Featured Projects
 
@@ -56,10 +58,15 @@ A research and paper-trading laboratory for evaluating prediction-market signals
 
 ## Currently Exploring
 
-- Secure AI agent orchestration
+- Secure AI agent orchestration and agent-assisted development
 - RAG platforms for source-code intelligence
-- Scalable backend and API architectures
+- Cloud-native backend and event-driven architectures
 - Prediction-market research systems
+
+## Languages
+
+- **Spanish:** Native
+- **English:** B2 (Upper-Intermediate)
 
 ## Let's Connect
 
@@ -67,7 +74,6 @@ I am open to remote international collaboration and senior engineering opportuni
 
 - **Location:** La Paz, Bolivia
 - **LinkedIn:** [linkedin.com/in/germana2022](https://www.linkedin.com/in/germana2022/)
-- **Phone:** [+591 6821674](tel:+5916821674)
+- **Phone:** [+591 68216174](tel:+59168216174)
 - **Email:** [agustin.german@gmail.com](mailto:agustin.german@gmail.com)
 - **GitHub:** [github.com/germana2022](https://github.com/germana2022)
-
