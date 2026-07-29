@@ -66,5 +66,8 @@ A research and paper-trading laboratory for evaluating prediction-market signals
 I am open to remote international collaboration and senior engineering opportunities.
 
 - **Location:** La Paz, Bolivia
+- **LinkedIn:** [linkedin.com/in/germana2022](https://www.linkedin.com/in/germana2022/)
+- **Phone:** [+591 6821674](tel:+5916821674)
+- **Email:** [agustin.german@gmail.com](mailto:agustin.german@gmail.com)
 - **GitHub:** [github.com/germana2022](https://github.com/germana2022)
 
