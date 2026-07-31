@@ -19,6 +19,14 @@ Based in La Paz, Bolivia, I am open to remote international opportunities as a *
 
 ## Featured Projects
 
+### [OpenCode Application Factory](https://github.com/germana2022/opencode-application-factory)
+
+A production-oriented, specification-first software delivery orchestrator built on OpenCode, with enforced quality gates and evidence-based validation across the complete development lifecycle.
+
+**Highlights:** 13 specialist agents, 19 automated validators, ticket-level traceability, real build and Playwright E2E execution, coverage governance, source-control validation, and clean delivery packaging.
+
+`OpenCode` · `AI Agents` · `SDLC Automation` · `Quality Gates` · `Playwright`
+
 ### [Challenge Orchestrator](https://github.com/germana2022/challenge-orchestrator)
 
 A secure multi-agent platform for analyzing, implementing, testing, and evaluating software engineering challenges.
@@ -34,12 +42,6 @@ A full-stack RAG platform for analyzing source-code repositories and answering a
 **Highlights:** LangGraph workflow, FastAPI services, Qdrant vector search, code-aware chunking, reranking, and a Next.js conversational interface.
 
 `RAG` · `LangGraph` · `FastAPI` · `Qdrant` · `Next.js`
-
-### [Dr. Magu CLI](https://github.com/germana2022/dr-magu-cli)
-
-An AI-assisted development workflow focused on software architecture, automation, validation, and secure engineering practices.
-
-`AI Agents` · `CLI` · `Automation` · `Software Architecture`
 
 ### [Polymarket Signal Lab](https://github.com/germana2022/polymarket-signal-lab)
 
@@ -58,7 +60,7 @@ A research and paper-trading laboratory for evaluating prediction-market signals
 
 ## Currently Exploring
 
-- Secure AI agent orchestration and agent-assisted development
+- Governed AI agent orchestration and agent-assisted software delivery
 - RAG platforms for source-code intelligence
 - Cloud-native backend and event-driven architectures
 - Prediction-market research systems
