@@ -43,13 +43,13 @@ A full-stack RAG platform for analyzing source-code repositories and answering a
 
 `RAG` · `LangGraph` · `FastAPI` · `Qdrant` · `Next.js`
 
-### [Polymarket Signal Lab](https://github.com/germana2022/polymarket-signal-lab)
+### [Funeral Assistant RAG MVP](https://github.com/germana2022/funeral-rag-assistant-mvp)
 
-A research and paper-trading laboratory for evaluating prediction-market signals, data quality, and quantitative strategies.
+A white-label, full-stack virtual assistant for funeral-service providers, combining customer consultation, operational administration, structured commercial data, and grounded RAG responses.
 
-**Highlights:** asynchronous workers, PostgreSQL, Docker, signal evaluation, and controlled research workflows.
+**Highlights:** .NET 9 integration API, Next.js interface, PostgreSQL/pgvector, configurable LLM provider, controlled document ingestion, Docker Compose, automated tests, and Playwright E2E validation.
 
-`Backend` · `PostgreSQL` · `Docker` · `Quantitative Research`
+`.NET 9` · `Next.js` · `RAG` · `PostgreSQL/pgvector` · `Docker` · `Playwright`
 
 ## Engineering Approach
 
@@ -61,9 +61,9 @@ A research and paper-trading laboratory for evaluating prediction-market signals
 ## Currently Exploring
 
 - Governed AI agent orchestration and agent-assisted software delivery
-- RAG platforms for source-code intelligence
+- RAG platforms for source-code intelligence and domain-specific customer service
 - Cloud-native backend and event-driven architectures
-- Prediction-market research systems
+- Secure, grounded AI assistants integrated with structured business data
 
 ## Languages
 
